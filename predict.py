@@ -300,7 +300,7 @@ if __name__ == '__main__':
     "                                                                                "
     model.cuda()
     for image_name in [os.path.join('imgs',f) for f in os.listdir('imgs')]:
-        image_name = r"data/airplane/images/019.jpg"
+        image_name = r"data/airplane/images/024.jpg"
         if image_name.split('.')[-1] == 'jpg':
             image = cv2.imread(image_name)
             images, meta = pre_process(image)
