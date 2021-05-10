@@ -1,0 +1,46 @@
+<annotation>
+	<folder>dir_points</folder>
+	<filename>012.jpg</filename>
+	<path>C:\Users\maggie\Desktop\dir_points\012.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>940</width>
+		<height>806</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aircraft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>357.3198</cx>
+			<cy>708.9019</cy>
+			<w>71.3821</w>
+			<h>53.553</h>
+			<angle>4.083185</angle>
+			<dx>335.67110088366167</dx>
+			<dy>724.6599068162269</dy>
+		</robndbox>
+		<extra />
+	</object>
+	<object>
+		<name>aircraft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>564.0484</cx>
+			<cy>183.7042</cy>
+			<w>73.0076</w>
+			<h>53.9521</h>
+			<angle>0.87</angle>
+			<dx>584.6669756216469</dx>
+			<dy>166.30932682032633</dy>
+		</robndbox>
+		<extra />
+	</object>
+</annotation>
